@@ -35,4 +35,10 @@ a:hover{
 }
 .uni{
     text-shadow: 2px 1px 2px rgb(179, 14, 179), 0 0 1em rgb(132, 45, 212), 0 0 0.2em rgb(81, 16, 145);;
+}small{
+color: rebeccapurple;
+margin: 0 auto;
+display: block;
+text-align: center;
+
 }

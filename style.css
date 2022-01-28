@@ -17,6 +17,8 @@ img{
     margin: 0 auto;
     display: block;
     box-shadow: rgba(115, 77, 129, 0.315) 3px 3px 3px 3px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 a{
     text-decoration: none;
